@@ -14,8 +14,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Jun Yoo's Website</h1>
           <nav className="Navigation-bar">
             <Link className="Navigation-button" to='/' >Home</Link>
             <Link className="Navigation-button" to='/About'>About</Link>
