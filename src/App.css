@@ -26,3 +26,13 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.Navigation-bar {
+  display: flex;
+}
+
+.Navigation-button {
+  box-sizing: border-box;
+  margin-left: 10px;
+  margin-right: 10px;
+}
